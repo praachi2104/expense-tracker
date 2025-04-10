@@ -4,6 +4,10 @@ A simple and interactive Expense Tracker web application built using **HTML**, *
 
 ---
 
+## 🚀 Live Demo
+👉 [Click here to view the live app](https://praachi2104.github.io/expense-tracker/)
+
+
 ## 🧠 Features
 
 - Add **Income** and **Expense** using separate buttons
@@ -35,6 +39,7 @@ cd expense-tracker
 - OR use a live server extension in VS Code
 
 ---
+
 
 ## ✨ Future Improvements
 
